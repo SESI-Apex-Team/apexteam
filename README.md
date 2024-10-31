@@ -13,9 +13,15 @@ Our team proudly competes in various national and international robotics competi
 
 🇧🇷 | [Rescue Line OBR - RoboCup](https://obr.robocup.org.br/modalidade-pratica/)
 
-🇧🇷 | [Social Responsibility and Scientific Communication - OBR](https://obr.robocup.org.br/modalidade-pratica/) Developing innovative projects with a focus on Social Responsibility and Scientific Outreach.
+The Rescue Line category challenges teams to create autonomous robots that navigate along a predefined path, accurately detecting and rescuing simulated victims while overcoming various obstacles, mimicking real-life rescue operations.
 
-⚙️ | [Rescue Maze CBR - RoboCup](https://www.cbrobotica.org/) Challenging our robots to navigate complex mazes, identify "victims," and simulate real-world rescue operations.
+🇧🇷 | [Social Responsibility and Scientific Communication - OBR](https://obr.robocup.org.br/modalidade-pratica/) 
+
+Developing innovative projects with a focus on Social Responsibility and Scientific Outreach.
+
+⚙️ | [Rescue Maze CBR - RoboCup](https://www.cbrobotica.org/) 
+
+Challenging our robots to navigate complex mazes, identify "victims," and simulate real-world rescue operations.
 
 💡 Our Mission
 We aim to inspire creativity, foster teamwork, and develop technical skills through robotics. The APEX Team is committed to:
