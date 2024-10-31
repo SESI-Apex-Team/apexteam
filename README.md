@@ -12,7 +12,9 @@ Follow our journey and latest updates on [Instagram](https://www.instagram.com/a
 Our team proudly competes in various national and international robotics competitions:
 
 🇧🇷 | [Rescue Line OBR - RoboCup](https://obr.robocup.org.br/modalidade-pratica/)
+
 🇧🇷 | [Social Responsibility and Scientific Communication - OBR](https://obr.robocup.org.br/modalidade-pratica/) Developing innovative projects with a focus on Social Responsibility and Scientific Outreach.
+
 ⚙️ | [Rescue Maze CBR - RoboCup](https://www.cbrobotica.org/) Challenging our robots to navigate complex mazes, identify "victims," and simulate real-world rescue operations.
 
 💡 Our Mission
